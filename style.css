@@ -43,9 +43,11 @@ section {
     margin: 20px auto;
 }
 
-#contact{
+#contact,#description{
     color: #d7a62f;
     font-size: 22px;
+    font-weight: bold;
+    text-shadow: 2px;
 }
 
 .game--restart {
