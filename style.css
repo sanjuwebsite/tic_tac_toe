@@ -43,7 +43,7 @@ section {
     margin: 20px auto;
 }
 
-#contact,#description{
+.contact{
     color: #d7a62f;
     font-size: 22px;
     font-weight: bold;
